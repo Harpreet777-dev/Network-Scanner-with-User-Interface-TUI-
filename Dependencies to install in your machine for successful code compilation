@@ -1,4 +1,4 @@
-Commands to add ncurses library in your linux machine Ubuntu 20.5--
+Commands to add ncurses library in your linux machine Ubuntu 20.04--
 
 1.sudo apt-get update
 2.sudo apt install libncurses5-dev libncursesw5-dev
