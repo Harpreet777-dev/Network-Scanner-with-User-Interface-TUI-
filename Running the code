@@ -1,0 +1,4 @@
+Step 1-(For code compilation)
+Command: gcc network_scanner.c -o network_scanner -lncurses
+Step 2-(For running the executable)
+Command: ./network_scanner
